@@ -2,7 +2,7 @@
 
 DESCRIPTION:
 
-HOLA is a modern and stylish vCard website template. Designed to be a resume, vCard, portfolio 
+Portfolio Alvaro is a modern and stylish vCard website template. Designed to be a resume, vCard, portfolio 
 template, it's the perfect template for creative designers, developers, freelancers, photographer 
 or any creative profession. It is fully responsive and retina/hi-dpi ready. It will look great 
 on any devices from desktop to mobile phones. It has blog page templates, working contact form, 
@@ -69,7 +69,7 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 SUPPORT:
     
-Since HOLA is distributed for free, support is not offered. HOLA is coded according 
+Since Portfolio alvaro is distributed for free, support is not offered. Portfolio Alvaro is coded according 
 to current web standards and we did our best to make the template easy to use and modify.
 If you have minimum web development experience, you can easily modify the template. 
 However, If you're still new to HTML and CSS, I suggest that you visit the 
