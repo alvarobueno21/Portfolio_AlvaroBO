@@ -4137,3 +4137,26 @@ article.blog-single .blog-content {
         display: none;
     }
 }
+
+/* Añadido por alvaro */
+.about-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+ /* Estilo para el título PROYECTOS  */
+.about-content h2 {
+    font-size: 24px;
+}
+
+ /* Estilo para el enlace Sock Puppet */
+.about-content a {
+    text-decoration: none; 
+    color: #007bff; 
+}
+
+.about-content a:hover {
+    color: #ff6600; /* Cambiar color cuando se pasa el ratón sobre el enlace */
+}
